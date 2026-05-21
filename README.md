@@ -1,6 +1,6 @@
 Scalable AWS Cloud Infrastructure Deployment
-^ Project Overview
 
+^ Project Overview
 This project demonstrates the design and deployment of a scalable, secure, and highly available cloud infrastructure using.
 
 The infrastructure was built to simulate a real-world production environment by implementing core AWS networking and compute services, including load balancing and automatic scaling.
@@ -105,6 +105,8 @@ Configure CI/CD pipeline
 Add database services (RDS)
 Implement Infrastructure as Code using Terraform
 Configure HTTPS & Domain Routing
+
+
 👨‍💻 Author
 Shyam Kumar D
 
